@@ -113,3 +113,40 @@ sudo nano youProcessname.rules
 // { "name": "timeshift", "type": "BG_CPUIO", "nice": 17, "ioclass": "idle" }
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+________________________________
+________________________________
+<br><br>
+
+# Debug
+- usefully to check when error is coming
+```shell
+journalctl -efu ananicy.service
+```
+
+
+
+
+
