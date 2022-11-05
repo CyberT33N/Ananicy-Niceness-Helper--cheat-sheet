@@ -10,6 +10,10 @@
 ## Good 2 know
 - A niceness of -20 is the highest priority and 19 is the lowest priority. The default niceness for processes is inherited from its parent process and is usually 0.
 
+- Ananicy loads all rules in ram while starting, so to apply rules, you must restart the service.
+
+
+
 
 
 
@@ -43,6 +47,16 @@ sudo systemctl start ananicy
 
 
 
+<br><br>
+________________________________
+________________________________
+<br><br>
+
+
+# Restart
+```
+sudo systemctl restart ananicy
+```
 
 
 
