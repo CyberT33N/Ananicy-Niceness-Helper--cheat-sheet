@@ -1,4 +1,4 @@
-# Ananicy Cheat Sheet
+# Ananicy Cheat Sheet (https://github.com/Nefelim4ag/Ananicy)
 
 <br><br>
 
