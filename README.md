@@ -110,7 +110,7 @@ ananicy dump types
 ```
 cd /etc/ananicy.d/00-default/
 sudo nano youProcessname.rules
-// { "name": "timeshift", "type": "BG_CPUIO", "nice": 17, "ioclass": "idle" }
+// { "name": "timeshift", "nice": 17, "ioclass": "idle" }
 ```
 
 
